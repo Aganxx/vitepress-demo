@@ -1,6 +1,6 @@
 export default {
 	title: 'VitePress',
 	description: 'Just playing around.',
-	base: '/',
+	base: '/vitepress-demo/',
 	// outDir: '../public',
 }
